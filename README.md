@@ -1,7 +1,7 @@
 # Multilingual Health Question Answering in Low-Resource African Languages
 
-**ALU Final Project — Zindi Competition**
-**Student:** David Akachi Nwanze
+**ML Techniques 1 Final Project — Zindi Competition**
+**Student:** Akachi David Nwanze
 **Competition:** [Multilingual Health Question Answering in Low-Resource African Languages Challenge](https://zindi.africa)
 
 ---
