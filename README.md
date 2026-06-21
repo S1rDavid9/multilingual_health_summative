@@ -6,6 +6,12 @@
 
 ---
 
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/hZHwuPOQqSk/0.jpg)](https://youtu.be/hZHwuPOQqSk)
+
+---
+
 ## Overview
 
 This repository contains all code and experiments for the Zindi competition on multilingual health question answering across five African languages: **Akan, Amharic, Luganda, Swahili, and English** (across multiple African countries).
