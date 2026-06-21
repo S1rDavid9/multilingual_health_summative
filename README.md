@@ -75,6 +75,17 @@ scikit-learn pandas numpy rouge-score transformers sentencepiece accelerate torc
 
 ---
 
+## Leaderboard Progression
+
+All 12 public submissions on the Zindi leaderboard:
+
+![Leaderboard Top](screenshots/leaderboard1.png)
+![Leaderboard Bottom](screenshots/leaderboard2.png)
+
+**Best public score: 0.497728 (Experiment 7 — Semantic Retrieval)**
+
+---
+
 ## Languages Covered
 
 | Code | Language | Country |
