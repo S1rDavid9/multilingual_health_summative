@@ -14,21 +14,21 @@ The task is to generate accurate answers to health questions in the same languag
 
 ---
 
-## Repository Structure
+## Notebooks
 
-```
-notebooks/
-├── summative_exp1.ipynb   — Exp 1: mT5-small baseline fine-tuning (full data)
-├── summative_exp2.ipynb   — Exp 2: mT0-small baseline fine-tuning (full data)
-├── summative_exp3.ipynb   — Exp 3: mT5-small + language tag prompt
-├── summative_exp4.ipynb   — Exp 4: mT5-small + 5 epochs
-├── summative_exp5.ipynb   — Exp 5: mT5-small + lower learning rate (5e-5)
-├── summative_exp6.ipynb   — Exp 6: mT5-small + language tag prompt (30% data)
-├── summative_exp7.ipynb   — Exp 7: Semantic retrieval (MiniLM embeddings)
-├── summative_exp8.ipynb   — Exp 8: mT5-small + LoRA fine-tuning
-├── summative_exp9.ipynb   — Exp 9: mT0-small full data fine-tuning
-└── summative_exp10.ipynb  — Exp 10: Hybrid semantic + TF-IDF retrieval
-```
+| Notebook | Description | Open in Colab |
+|----------|-------------|---------------|
+| [summative_eda.ipynb](notebooks/summative_eda.ipynb) | Exploratory Data Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_eda.ipynb) |
+| [summative_exp1.ipynb](notebooks/summative_exp1.ipynb) | Exp 1: mT5-small baseline fine-tuning (full data) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp1.ipynb) |
+| [summative_exp2.ipynb](notebooks/summative_exp2.ipynb) | Exp 2: mT0-small baseline fine-tuning (full data) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp2.ipynb) |
+| [summative_exp3.ipynb](notebooks/summative_exp3.ipynb) | Exp 3: mT5-small + language tag prompt | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp3.ipynb) |
+| [summative_exp4.ipynb](notebooks/summative_exp4.ipynb) | Exp 4: mT5-small + 5 epochs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp4.ipynb) |
+| [summative_exp5.ipynb](notebooks/summative_exp5.ipynb) | Exp 5: mT5-small + lower learning rate (5e-5) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp5.ipynb) |
+| [summative_exp6.ipynb](notebooks/summative_exp6.ipynb) | Exp 6: mT5-small + language tag prompt (30% data) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp6.ipynb) |
+| [summative_exp7.ipynb](notebooks/summative_exp7.ipynb) | Exp 7: Semantic retrieval (MiniLM embeddings) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp7.ipynb) |
+| [summative_exp8.ipynb](notebooks/summative_exp8.ipynb) | Exp 8: mT5-small + LoRA fine-tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp8.ipynb) |
+| [summative_exp9.ipynb](notebooks/summative_exp9.ipynb) | Exp 9: mT0-small full data fine-tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp9.ipynb) |
+| [summative_exp10.ipynb](notebooks/summative_exp10.ipynb) | Exp 10: Hybrid semantic + TF-IDF retrieval | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S1rDavid9/multilingual_health_summative/blob/main/notebooks/summative_exp10.ipynb) |
 
 ---
 
